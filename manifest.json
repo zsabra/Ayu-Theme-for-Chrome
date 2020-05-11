@@ -5,7 +5,7 @@
    "theme": {
       "colors": {
          "bookmark_text": [ 255, 255, 255 ],
-         "frame": [ 0, 0, 0 ],
+         "frame": [ 10, 14, 20 ],
          "ntp_background": [ 10, 14, 20 ],
          "ntp_text": [ 125, 134, 142 ],
          "tab_background_text": [ 255, 255, 255 ],
