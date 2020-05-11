@@ -1,4 +1,5 @@
 ## Ayu theme for Chrome
 
-<img alt="ayu" src="https://user-images.githubusercontent.com/41639488/81553866-c832d580-93c0-11ea-92c7-ab08bf2b6c7a.png">
+<img alt="Ayu Chrome Theme" src="https://user-images.githubusercontent.com/41639488/81579994-d1836880-93e7-11ea-802f-86139179d28d.png">
+
 
